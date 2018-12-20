@@ -5,4 +5,4 @@ A simple web application that allows sharing of campgrounds by users built with 
 - users can comment on a campground
 - users can also reply on a comment
 - ...still adding features...
--    see demo on www.nivocamps.herokuapp.com
+-    see demo on https://nivocamps.herokuapp.com/
